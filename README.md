@@ -1,2 +1,2 @@
-# LTTS-Pyton-Project-259922
+# LTTS-Python-Project-259922
 Sonic Authentication system
